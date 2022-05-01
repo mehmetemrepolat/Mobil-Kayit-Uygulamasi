@@ -1,4 +1,9 @@
 
+![önizleme](https://user-images.githubusercontent.com/97759584/166165253-ce03d8df-caaa-4cd0-8ef9-7128d481799f.png)
+
+![önizleme2](https://user-images.githubusercontent.com/97759584/166165260-19ba5636-a131-4007-8ed7-afd23ee6ce9e.png)
+
+
 # Mobile_Registration_Form
 Mobile Registration Form Application that receives login information from the user, 
 signs and verifies the accuracy of the information in the mobile signature section of the application and saves the information to the MSSQL database.
